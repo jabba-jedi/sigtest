@@ -18,7 +18,7 @@ npm install -g sigtest
 
 ## Local version
 
-Download `sigtest` sources, open `termial` at the root the folder, and run:
+Download `sigtest` sources, open `terminal` at the root the folder, and run:
 
 ```bash
 ...
